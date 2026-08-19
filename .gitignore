@@ -1,0 +1,8 @@
+./myvenv
+./casefiles
+./__pycache__
+.env
+./LawAgent/__pycache__
+./LawAgent/casefiles
+./LawAgent/qdrant_db/.lock
+./LawAgent/qdrant_db/meta.json
